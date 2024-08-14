@@ -1,4 +1,4 @@
-<img align="center" src="https://drive.google.com/file/d/1cQTepq_AKSs0QcO5Cq6cu7f3LDkkQ_ws/view?usp=sharing">
+<a href="https://imgbb.com/"><img align="center" src="https://i.ibb.co/7JSKnqY/Picture1.png" alt="Picture1" border="0"></a>
 <h1 align="center">I'm Ankit Kumar</h1>
 <h3 align="center">Driven and results-oriented individual passionate about technology with strong leadership abilities. Eager to leverage my skills and experience to drive impactful change. I've honed exceptional problem-solving skills through hands-on experience and academic training, enabling me to approach complex challenges with innovative solutions. As a team player with excellent communication skills, I effectively collaborate with diverse groups to achieve shared goals. I thrive at the intersection of technology and business, and I'm excited to contribute to innovative teams. Let's connect and explore how we can create meaningful change together!</h3>
 
