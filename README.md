@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="100%">
   <img src="https://i.ibb.co/7JSKnqY/Picture1.png" alt="Picture1">
 </p>
 <h1 align="center">I'm Ankit Kumar</h1>
