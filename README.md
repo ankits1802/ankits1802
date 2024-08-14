@@ -2,12 +2,15 @@
  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" border="0" style="width:100%;">
 </p>
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" border="0">
-</p>
-
-<h1 align="center">I'm Ankit Kumar</h1>
-<h3 align="center">Driven and results-oriented individual passionate about technology with strong leadership abilities. Eager to leverage my skills and experience to drive impactful change. I've honed exceptional problem-solving skills through hands-on experience and academic training, enabling me to approach complex challenges with innovative solutions. As a team player with excellent communication skills, I effectively collaborate with diverse groups to achieve shared goals. I thrive at the intersection of technology and business, and I'm excited to contribute to innovative teams. Let's connect and explore how we can create meaningful change together!</h3>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Ankit Kumar" style="max-width: 100%; border: 0;">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <h1>I'm Ankit Kumar</h1>
+    <h3>Driven and results-oriented individual passionate about technology with strong leadership abilities. Eager to leverage my skills and experience to drive impactful change. I've honed exceptional problem-solving skills through hands-on experience and academic training, enabling me to approach complex challenges with innovative solutions. As a team player with excellent communication skills, I effectively collaborate with diverse groups to achieve shared goals. I thrive at the intersection of technology and business, and I'm excited to contribute to innovative teams. Let's connect and explore how we can create meaningful change together!</h3>
+  </div>
+</div>
 
 - 👨‍💻 Currently working on [AutoSQL](https://projectlink.com)
 - 🌱 Learning **Keras, OpenCV, PyTorch**
