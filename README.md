@@ -1,14 +1,6 @@
-<table>
-  <tr>
-    <td style="vertical-align: center;">
-      <img src="https://i.ibb.co/Y0GKnQb/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Hello" width="5333">
-    </td>
-    <td style="vertical-align: center;">
-      <h1>I'm Ankit Kumar</h1>
-      <h3>Driven and results-oriented individual passionate about technology with strong leadership abilities. Eager to leverage my skills and experience to drive impactful change. I've honed exceptional problem-solving skills through hands-on experience and academic training, enabling me to approach complex challenges with innovative solutions. As a team player with excellent communication skills, I effectively collaborate with diverse groups to achieve shared goals. I thrive at the intersection of technology and business, and I'm excited to contribute to innovative teams. Let's connect and explore how we can create meaningful change together!</h3>
-    </td>
-  </tr>
-</table>
+<img src="https://i.ibb.co/Y0GKnQb/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Hello" width="5333">
+<h1>I'm Ankit Kumar</h1>
+<h3>Driven and results-oriented individual passionate about technology with strong leadership abilities. Eager to leverage my skills and experience to drive impactful change. I've honed exceptional problem-solving skills through hands-on experience and academic training, enabling me to approach complex challenges with innovative solutions. As a team player with excellent communication skills, I effectively collaborate with diverse groups to achieve shared goals. I thrive at the intersection of technology and business, and I'm excited to contribute to innovative teams. Let's connect and explore how we can create meaningful change together!</h3>
 
 - 👨‍💻 Currently working on [AutoSQL](https://projectlink.com)
 - 🌱 Learning **Keras, OpenCV, PyTorch**
