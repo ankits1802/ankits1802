@@ -1,8 +1,14 @@
-
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM4MTM0ODksIm5iZiI6MTcyMzgxMzE4OSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE2VDEyNTk0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2YTUzZGM5Y2NkOTZkNjM3MGM3ZWVmMmEwMDg5ZGUyZjgxYzg0MWRiNDg2ZDAwNDVjMGU5MmU2ZGI4MGY1ZDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.aVuHf4rqWmPCkStC009qLM891fBw8wVFobMCsZ0zZAo" alt="Hello">
-
-<h1>I'm Ankit Kumar</h1>
-<h3>Driven and results-oriented individual passionate about technology with strong leadership abilities. Eager to leverage my skills and experience to drive impactful change. I've honed exceptional problem-solving skills through hands-on experience and academic training, enabling me to approach complex challenges with innovative solutions. As a team player with excellent communication skills, I effectively collaborate with diverse groups to achieve shared goals. I thrive at the intersection of technology and business, and I'm excited to contribute to innovative teams. Let's connect and explore how we can create meaningful change together!</h3>
+<table>
+  <tr>
+    <td style="vertical-align: center;">
+      <img src="https://i.ibb.co/Y0GKnQb/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Hello" width="5333">
+    </td>
+    <td style="vertical-align: center;">
+      <h1>I'm Ankit Kumar</h1>
+      <h3>Driven and results-oriented individual passionate about technology with strong leadership abilities. Eager to leverage my skills and experience to drive impactful change. I've honed exceptional problem-solving skills through hands-on experience and academic training, enabling me to approach complex challenges with innovative solutions. As a team player with excellent communication skills, I effectively collaborate with diverse groups to achieve shared goals. I thrive at the intersection of technology and business, and I'm excited to contribute to innovative teams. Let's connect and explore how we can create meaningful change together!</h3>
+    </td>
+  </tr>
+</table>
 
 - 👨‍💻 Currently working on [AutoSQL](https://projectlink.com)
 - 🌱 Learning **Keras, OpenCV, PyTorch**
@@ -36,21 +42,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankits1802&show_icons=true&locale=en" alt="ankits1802" /></p>
 
 
-<h3 align="left">Experience:</h3>
- <h4>- Salesforce Virtual Internship (Remote)  </h4>
-  <h6><i>Virtual Internship through SmartInternz (Dec 2023 - Jan 2024)</i></h6>  
-  <p>- Developed custom solutions using Apex and Lightning Web Components.</p>
-  <p>- Streamlined operations with tools improving efficiency by 4%.</p>
+<h3>Experience:</h3>
 
-<h4>- Data Science Trainee (Remote) </h4> 
-  <h6><i>Internshala Trainings (Mar 2023 - Apr 2023)  <h5></i>
-  <p>- Built Python scripts for data extraction and analysis.</p>
-  <p>- Enhanced model accuracy by 7% through optimization.</p>
+<span style="font-size: 15px"><b>Salesforce Virtual Internship (Remote)</b></span><br>
+<span style="font-size: 13px"><i>Virtual Internship through SmartInternz (Dec 2023 - Jan 2024)</i></span><br>
+<span style="font-size: 14px">- Developed custom solutions using Apex and Lightning Web Components.</span><br>
+<span style="font-size: 14px">- Streamlined operations with tools improving efficiency by 4%.</span>
+
+<span style="font-size: 15px"><b>Data Science Trainee (Remote)</b></span><br>
+<span style="font-size: 13px"><i>Internshala Trainings (Mar 2023 - Apr 2023)</i></span><br>
+<span style="font-size: 14px">- Built Python scripts for data extraction and analysis.</span><br>
+<span style="font-size: 14px">- Enhanced model accuracy by 7% through optimization.</span>
 
 
-<h3 align="left">Positions of Responsibility:</h3>
-- <b>Startup Cell Coordinator</b> <br>
-  <p>- Sershah Engineering College (Jan 2024 - Present) <br> 
-  - Organized talks and placement drives for hundreds of students.</p>
+<h3>Positions of Responsibility:</h3>
+ <span style="font-size: 15px; margin-left: 14px"><b>Startup Cell Coordinator</b></span><br>
+ <span style="font-size: 13px; margin-left: 14px"><i>Sershah Engineering College (Jan 2024 - Present)</i></span><br> 
+  <span style="font-size: 14px; margin-left: 14px">- Organized talks and placement drives for hundreds of students.</span>
 
 <h4 align="center">Thanks for stopping by! Let's connect and make a difference together!</h4>
