@@ -2,7 +2,7 @@
 <h1>I'm Ankit Kumar</h1>
 <h3>Driven and results-oriented individual passionate about technology with strong leadership abilities. Eager to leverage my skills and experience to drive impactful change. I've honed exceptional problem-solving skills through hands-on experience and academic training, enabling me to approach complex challenges with innovative solutions. As a team player with excellent communication skills, I effectively collaborate with diverse groups to achieve shared goals. I thrive at the intersection of technology and business, and I'm excited to contribute to innovative teams. Let's connect and explore how we can create meaningful change together!</h3>
 
-- 👨‍💻 Currently working on [AutoSQL](https://projectlink.com)
+- 👨‍💻 Currently working on [AutoSQL](https://github.com/ankits1802/AutoSQL)
 - 🌱 Learning **Keras, OpenCV, PyTorch**
 - 💬 Ask me about **Machine Learning**
 - 📫 Reach me at: [ankits1802@gmail.com](mailto:ankits1802@gmail.com)
