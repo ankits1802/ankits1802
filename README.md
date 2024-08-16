@@ -1,10 +1,9 @@
-<img src="https://i.ibb.co/Y0GKnQb/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Hello" width="5333">
-<h1>I'm Ankit Kumar</h1>
-<h3>Driven and results-oriented individual passionate about technology with strong leadership abilities. Eager to leverage my skills and experience to drive impactful change. I've honed exceptional problem-solving skills through hands-on experience and academic training, enabling me to approach complex challenges with innovative solutions. As a team player with excellent communication skills, I effectively collaborate with diverse groups to achieve shared goals. I thrive at the intersection of technology and business, and I'm excited to contribute to innovative teams. Let's connect and explore how we can create meaningful change together!</h3>
-
-- 👨‍💻 Currently working on [AutoSQL](https://github.com/ankits1802/AutoSQL)
-- 🌱 Learning **Keras, OpenCV, PyTorch**
-- 💬 Ask me about **Machine Learning**
+<img src="https://s10.gifyu.com/images/SDYxt.gif" alt="Hello" align="left" style="width: 30em">
+<span>Driven and results-oriented individual passionate about technology with strong leadership abilities. Eager to leverage my skills and experience to drive impactful change. I've honed exceptional problem-solving skills through hands-on experience and academic training, enabling me to approach complex challenges with innovative solutions. As a team player with excellent communication skills, I effectively collaborate with diverse groups to achieve shared goals. I thrive at the intersection of technology and business, and I'm excited to contribute to innovative teams. Let's connect and explore how we can create meaningful change together!</span>
+<br><br><br>
+- 👨‍💻 Currently working on <a href="https://github.com/ankits1802/AutoSQL">AutoSQL</a><br>
+- 🌱 Learning <b>Keras, OpenCV, PyTorch</b><br>
+- 💬 Ask me about <b>Machine Learning</b><br>
 - 📫 Reach me at: [ankits1802@gmail.com](mailto:ankits1802@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
