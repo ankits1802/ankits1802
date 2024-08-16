@@ -44,8 +44,8 @@
 
 # 📊 GitHub Stats:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ankits1802&theme=dark&hide_border=false&include_all_commits=true&count_private=false"</p><br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankits1802&theme=dark&hide_border=false"></p><br/>
-<p align="center" style="margin-top: -1.5em"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankits1802&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ankits1802&theme=dark&hide_border=false"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankits1802&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></p>
 
 ### <img src="https://i.ibb.co/DP22fkw/fading-line.gif">
 
