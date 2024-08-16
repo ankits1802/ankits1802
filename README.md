@@ -4,7 +4,7 @@
 - 👨‍💻 Currently working on <a href="https://github.com/ankits1802/AutoSQL">AutoSQL</a><br>
 - 🌱 Learning <b>Keras, OpenCV, PyTorch</b><br>
 - 💬 Ask me about <b>Machine Learning</b><br>
-- 📫 Reach me at: [ankits1802@gmail.com](mailto:ankits1802@gmail.com)
+- 📫 Reach me at: <a href="mailto: ankits1802@gmail.com">ankits1802@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
