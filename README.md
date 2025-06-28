@@ -58,12 +58,3 @@
 [![](https://visitcount.itsvg.in/api?id=ankits1802&icon=1&color=0)](https://visitcount.itsvg.in)
 
 ### <img src="https://i.ibb.co/DP22fkw/fading-line.gif">
-
-### <span style="padding-left: 0.2em; font-size: 1em;">💭 Few More Words</span>
-<img src="https://i.ibb.co/m4C1qGs/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="width:22em; transform: rotate(270deg); padding: 1em; margin-top: -0.6em" align="left">
-
-<p>
-<p> <img src="https://i.ibb.co/QXGy35H/Whats-App-Image-2024-08-16-at-23-40-25-3bd40545.jpg" style="width: 10%; margin-top: 0.4em" align="left"></p>
-
-
-### <img src="https://i.ibb.co/DP22fkw/fading-line.gif">
