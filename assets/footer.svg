@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Full-time Thinker. Part-time Tinkerer.">
+  <title>Full-time Thinker. Part-time Tinkerer.</title>
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0e7490"/>
+      <stop offset=".5" stop-color="#6d28d9"/>
+      <stop offset="1" stop-color="#0e7490"/>
+    </linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e0f2fe"/>
+      <stop offset=".5" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
+    <style>
+      .sans{font-family:'Inter','Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace}
+      .a{animation:sway 9s ease-in-out infinite alternate}
+      .b{animation:sway 13s ease-in-out infinite alternate-reverse}
+      @keyframes sway{from{transform:translateX(0)}to{transform:translateX(-140px)}}
+    </style>
+    <clipPath id="c"><rect width="1200" height="200" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="200" fill="#060a1a"/>
+    <path class="b" opacity=".35" fill="url(#w)" d="M0 120 C 150 80 300 160 450 120 S 750 80 900 120 S 1200 160 1350 120 V200 H0Z"/>
+    <path class="a" opacity=".6" fill="url(#w)" d="M0 150 C 160 110 320 185 480 150 S 800 110 960 150 S 1280 185 1400 150 V200 H0Z"/>
+    <text class="sans" x="600" y="78" fill="url(#t)" font-size="34" font-weight="800" text-anchor="middle" letter-spacing="-.5">Full-time Thinker. Part-time Tinkerer.</text>
+    <text class="mono" x="600" y="112" fill="#94a3b8" font-size="16" text-anchor="middle">building systems that think — and that you can trust</text>
+  </g>
+</svg>

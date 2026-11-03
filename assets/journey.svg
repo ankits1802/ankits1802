@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Career journey of Ankit Kumar">
+<title>Journey: electronics diploma to senior AI engineer and researcher</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060a1a"/><stop offset="1" stop-color="#0f0b26"/></linearGradient>
+<linearGradient id="track" gradientUnits="userSpaceOnUse" x1="110" y1="0" x2="1090" y2="0"><stop offset="0" stop-color="#475569"/><stop offset=".45" stop-color="#38bdf8"/><stop offset=".78" stop-color="#a78bfa"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+<filter id="glow" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".05"/></pattern>
+<style>
+.mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace}
+.sans{font-family:'Inter','Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+.it{opacity:0;animation:in .7s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.draw{stroke-dasharray:1100;stroke-dashoffset:1100;animation:draw 2.4s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.ring{animation:ring 2.2s ease-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes ring{0%{transform:scale(1);opacity:.8}100%{transform:scale(3);opacity:0}}
+</style>
+</defs>
+<rect width="1200" height="440" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="440" rx="20" fill="url(#grid)"/>
+<text class="mono" x="44" y="50" fill="#7dd3fc" font-size="17" letter-spacing="3">JOURNEY</text>
+<text class="mono" x="1156" y="50" fill="#64748b" font-size="16" text-anchor="end">electronics → software → ML → AI research &amp; production</text>
+<line x1="70" y1="232" x2="1130" y2="232" stroke="#1e293b" stroke-width="5" stroke-linecap="round"/>
+<line class="draw" x1="70" y1="232" x2="1130" y2="232" stroke="url(#track)" stroke-width="5" stroke-linecap="round"/>
+<circle r="6" fill="#e0f2fe" filter="url(#glow)"><animateMotion dur="6s" repeatCount="indefinite" path="M70,232 H1130"/><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.1;.9;1" dur="6s" repeatCount="indefinite"/></circle>
+
+<g class="it" style="animation-delay:0.25s">
+<line x1="110.0" y1="216" x2="110.0" y2="170" stroke="#64748b" stroke-opacity=".6" stroke-dasharray="2 4"/>
+<circle cx="110.0" cy="232" r="8" fill="#0b1020" stroke="#64748b" stroke-width="3.5" filter="url(#glow)"/>
+<circle cx="110.0" cy="232" r="3.5" fill="#64748b"/>
+<text class="mono" x="110.0" y="82" fill="#64748b" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1.5">2019</text>
+<text class="sans" x="110.0" y="110" fill="#f1f5f9" font-size="17" font-weight="650" text-anchor="middle">Diploma · Electronics</text>
+<text class="sans" x="110.0" y="134" fill="#94a3b8" font-size="15" text-anchor="middle">Govt. Polytechnic, Gaya</text>
+</g>
+<g class="it" style="animation-delay:0.43s">
+<line x1="218.9" y1="248" x2="218.9" y2="280" stroke="#64748b" stroke-opacity=".6" stroke-dasharray="2 4"/>
+<circle cx="218.9" cy="232" r="8" fill="#0b1020" stroke="#64748b" stroke-width="3.5" filter="url(#glow)"/>
+<circle cx="218.9" cy="232" r="3.5" fill="#64748b"/>
+<text class="mono" x="218.9" y="298" fill="#64748b" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1.5">2021</text>
+<text class="sans" x="218.9" y="326" fill="#f1f5f9" font-size="17" font-weight="650" text-anchor="middle">B.Tech · CSE</text>
+<text class="sans" x="218.9" y="350" fill="#94a3b8" font-size="15" text-anchor="middle">Sershah Engg. College</text>
+</g>
+<g class="it" style="animation-delay:0.61s">
+<line x1="327.8" y1="216" x2="327.8" y2="170" stroke="#38bdf8" stroke-opacity=".6" stroke-dasharray="2 4"/>
+<circle cx="327.8" cy="232" r="8" fill="#0b1020" stroke="#38bdf8" stroke-width="3.5" filter="url(#glow)"/>
+<circle cx="327.8" cy="232" r="3.5" fill="#38bdf8"/>
+<text class="mono" x="327.8" y="82" fill="#38bdf8" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1.5">2023</text>
+<text class="sans" x="327.8" y="110" fill="#f1f5f9" font-size="17" font-weight="650" text-anchor="middle">Data Science Intern</text>
+<text class="sans" x="327.8" y="134" fill="#94a3b8" font-size="15" text-anchor="middle">Internshala</text>
+</g>
+<g class="it" style="animation-delay:0.79s">
+<line x1="436.7" y1="248" x2="436.7" y2="280" stroke="#38bdf8" stroke-opacity=".6" stroke-dasharray="2 4"/>
+<circle cx="436.7" cy="232" r="8" fill="#0b1020" stroke="#38bdf8" stroke-width="3.5" filter="url(#glow)"/>
+<circle cx="436.7" cy="232" r="3.5" fill="#38bdf8"/>
+<text class="mono" x="436.7" y="298" fill="#38bdf8" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1.5">2023</text>
+<text class="sans" x="436.7" y="326" fill="#f1f5f9" font-size="17" font-weight="650" text-anchor="middle">Salesforce Dev Intern</text>
+<text class="sans" x="436.7" y="350" fill="#94a3b8" font-size="15" text-anchor="middle">SmartInternz</text>
+</g>
+<g class="it" style="animation-delay:0.97s">
+<line x1="545.6" y1="216" x2="545.6" y2="170" stroke="#f59e0b" stroke-opacity=".6" stroke-dasharray="2 4"/>
+<circle cx="545.6" cy="232" r="8" fill="#0b1020" stroke="#f59e0b" stroke-width="3.5" filter="url(#glow)"/>
+<circle cx="545.6" cy="232" r="3.5" fill="#f59e0b"/>
+<text class="mono" x="545.6" y="82" fill="#f59e0b" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1.5">2024</text>
+<text class="sans" x="545.6" y="110" fill="#f1f5f9" font-size="17" font-weight="650" text-anchor="middle">Amazon ML School</text>
+<text class="sans" x="545.6" y="134" fill="#94a3b8" font-size="15" text-anchor="middle">&lt; 0.3% selection rate</text>
+</g>
+<g class="it" style="animation-delay:1.15s">
+<line x1="654.4" y1="248" x2="654.4" y2="280" stroke="#38bdf8" stroke-opacity=".6" stroke-dasharray="2 4"/>
+<circle cx="654.4" cy="232" r="8" fill="#0b1020" stroke="#38bdf8" stroke-width="3.5" filter="url(#glow)"/>
+<circle cx="654.4" cy="232" r="3.5" fill="#38bdf8"/>
+<text class="mono" x="654.4" y="298" fill="#38bdf8" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1.5">2024</text>
+<text class="sans" x="654.4" y="326" fill="#f1f5f9" font-size="17" font-weight="650" text-anchor="middle">ML Intern</text>
+<text class="sans" x="654.4" y="350" fill="#94a3b8" font-size="15" text-anchor="middle">IIT Madras Pravartak</text>
+</g>
+<g class="it" style="animation-delay:1.33s">
+<line x1="763.3" y1="216" x2="763.3" y2="170" stroke="#818cf8" stroke-opacity=".6" stroke-dasharray="2 4"/>
+<circle cx="763.3" cy="232" r="8" fill="#0b1020" stroke="#818cf8" stroke-width="3.5" filter="url(#glow)"/>
+<circle cx="763.3" cy="232" r="3.5" fill="#818cf8"/>
+<text class="mono" x="763.3" y="82" fill="#818cf8" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1.5">2025</text>
+<text class="sans" x="763.3" y="110" fill="#f1f5f9" font-size="17" font-weight="650" text-anchor="middle">AI/ML Engineer</text>
+<text class="sans" x="763.3" y="134" fill="#94a3b8" font-size="15" text-anchor="middle">Abstrabit Technologies</text>
+</g>
+<g class="it" style="animation-delay:1.51s">
+<line x1="872.2" y1="248" x2="872.2" y2="280" stroke="#a78bfa" stroke-opacity=".6" stroke-dasharray="2 4"/>
+<circle cx="872.2" cy="232" r="8" fill="#0b1020" stroke="#a78bfa" stroke-width="3.5" filter="url(#glow)"/>
+<circle cx="872.2" cy="232" r="3.5" fill="#a78bfa"/>
+<text class="mono" x="872.2" y="298" fill="#a78bfa" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1.5">2025</text>
+<text class="sans" x="872.2" y="326" fill="#f1f5f9" font-size="17" font-weight="650" text-anchor="middle">GenAI Research Intern</text>
+<text class="sans" x="872.2" y="350" fill="#94a3b8" font-size="15" text-anchor="middle">IIT Kharagpur</text>
+</g>
+<g class="it" style="animation-delay:1.69s">
+<line x1="981.1" y1="216" x2="981.1" y2="170" stroke="#34d399" stroke-opacity=".6" stroke-dasharray="2 4"/>
+<circle class="ring" cx="981.1" cy="232" r="9" fill="#34d399"/>
+<circle cx="981.1" cy="232" r="10" fill="#0b1020" stroke="#34d399" stroke-width="3.5" filter="url(#glow)"/>
+<circle cx="981.1" cy="232" r="3.5" fill="#34d399"/>
+<text class="mono" x="981.1" y="82" fill="#34d399" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1.5">NOW</text>
+<text class="sans" x="981.1" y="110" fill="#f1f5f9" font-size="17" font-weight="650" text-anchor="middle">AI Researcher</text>
+<text class="sans" x="981.1" y="134" fill="#94a3b8" font-size="15" text-anchor="middle">AI CoE · IIT Kharagpur</text>
+</g>
+<g class="it" style="animation-delay:1.87s">
+<line x1="1090.0" y1="248" x2="1090.0" y2="280" stroke="#34d399" stroke-opacity=".6" stroke-dasharray="2 4"/>
+<circle class="ring" cx="1090.0" cy="232" r="9" fill="#34d399"/>
+<circle cx="1090.0" cy="232" r="10" fill="#0b1020" stroke="#34d399" stroke-width="3.5" filter="url(#glow)"/>
+<circle cx="1090.0" cy="232" r="3.5" fill="#34d399"/>
+<text class="mono" x="1090.0" y="298" fill="#34d399" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1.5">NOW</text>
+<text class="sans" x="1090.0" y="326" fill="#f1f5f9" font-size="17" font-weight="650" text-anchor="middle">Senior AI Engineer</text>
+<text class="sans" x="1090.0" y="350" fill="#94a3b8" font-size="15" text-anchor="middle">Skai Lama</text>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="438.5" rx="19.5" fill="none" stroke="#7dd3fc" stroke-opacity=".15" stroke-width="1.5"/></svg>
