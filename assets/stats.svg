@@ -12,25 +12,25 @@
 </defs>
 <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
 <text class="mono" x="44" y="58" fill="#7dd3fc" font-size="17" letter-spacing="3">TELEMETRY</text>
-<text class="mono" x="1156" y="58" fill="#64748b" font-size="15" text-anchor="end">auto-updated daily · 2026-11-10</text>
+<text class="mono" x="1156" y="58" fill="#64748b" font-size="15" text-anchor="end">auto-updated daily · 2026-11-11</text>
 <g class="fade" style="animation-delay:0.1s">
   <rect x="44" y="96" width="184" height="104" rx="14" fill="#0f172a" stroke="#7dd3fc" stroke-opacity=".35"/>
-  <text class="sans" x="62" y="150" fill="#7dd3fc" font-size="36" font-weight="800">3,929</text>
+  <text class="sans" x="62" y="150" fill="#7dd3fc" font-size="36" font-weight="800">3,935</text>
   <text class="sans" x="62" y="180" fill="#94a3b8" font-size="15">Contributions · last year</text>
 </g>
 <g class="fade" style="animation-delay:0.22s">
   <rect x="244" y="96" width="184" height="104" rx="14" fill="#0f172a" stroke="#c4b5fd" stroke-opacity=".35"/>
-  <text class="sans" x="262" y="150" fill="#c4b5fd" font-size="36" font-weight="800">4,038</text>
+  <text class="sans" x="262" y="150" fill="#c4b5fd" font-size="36" font-weight="800">4,044</text>
   <text class="sans" x="262" y="180" fill="#94a3b8" font-size="15">All-time contributions</text>
 </g>
 <g class="fade" style="animation-delay:0.33999999999999997s">
   <rect x="444" y="96" width="184" height="104" rx="14" fill="#0f172a" stroke="#34d399" stroke-opacity=".35"/>
-  <text class="sans" x="462" y="150" fill="#34d399" font-size="36" font-weight="800">3,793</text>
+  <text class="sans" x="462" y="150" fill="#34d399" font-size="36" font-weight="800">3,795</text>
   <text class="sans" x="462" y="180" fill="#94a3b8" font-size="15">Commits</text>
 </g>
 <g class="fade" style="animation-delay:0.45999999999999996s">
   <rect x="44" y="214" width="184" height="104" rx="14" fill="#0f172a" stroke="#fbbf24" stroke-opacity=".35"/>
-  <text class="sans" x="62" y="268" fill="#fbbf24" font-size="36" font-weight="800">150</text>
+  <text class="sans" x="62" y="268" fill="#fbbf24" font-size="36" font-weight="800">154</text>
   <text class="sans" x="62" y="298" fill="#94a3b8" font-size="15">Pull requests</text>
 </g>
 <g class="fade" style="animation-delay:0.58s">
@@ -44,7 +44,7 @@
   <text class="sans" x="462" y="298" fill="#94a3b8" font-size="15">Public repos</text>
 </g>
 <text class="mono" x="700" y="96" fill="#94a3b8" font-size="15" letter-spacing="2">LANGUAGES · OWN + CONTRIBUTED REPOS</text>
-<g clip-path="url(#bar)"><rect x="700" y="112" width="456" height="16" fill="#1e293b"/><rect x="700" y="112" width="246.94283713088956" height="16" fill="#3178c6"/><rect x="946.9428371308895" y="112" width="115.61017807036366" height="16" fill="#3572A5"/><rect x="1062.5530152012532" y="112" width="82.7890714074727" height="16" fill="#A97BFF"/><rect x="1145.3420866087258" y="112" width="4.039975719101532" height="16" fill="#f1e05a"/><rect x="1149.3820623278275" y="112" width="2.406561334793312" height="16" fill="#336790"/><rect x="1151.7886236626207" y="112" width="2" height="16" fill="#844FBA"/></g>
+<g clip-path="url(#bar)"><rect x="700" y="112" width="456" height="16" fill="#1e293b"/><rect x="700" y="112" width="246.92598756076558" height="16" fill="#3178c6"/><rect x="946.9259875607656" y="112" width="115.62366904537136" height="16" fill="#3572A5"/><rect x="1062.549656606137" y="112" width="82.79315722051986" height="16" fill="#A97BFF"/><rect x="1145.3428138266568" y="112" width="4.0397000607549725" height="16" fill="#f1e05a"/><rect x="1149.3825138874117" y="112" width="2.406397128678085" height="16" fill="#336790"/><rect x="1151.7889110160897" y="112" width="2" height="16" fill="#844FBA"/></g>
 <circle cx="708" cy="166" r="7" fill="#3178c6"/>
 <text class="sans" x="724" y="172" fill="#e2e8f0" font-size="17" font-weight="600">TypeScript</text>
 <text class="mono" x="922" y="172" fill="#94a3b8" font-size="15" text-anchor="end">54.2%</text>
