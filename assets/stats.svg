@@ -12,56 +12,56 @@
 </defs>
 <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
 <text class="mono" x="44" y="58" fill="#7dd3fc" font-size="17" letter-spacing="3">TELEMETRY</text>
-<text class="mono" x="1156" y="58" fill="#64748b" font-size="15" text-anchor="end">auto-updated daily · 2026-11-15</text>
+<text class="mono" x="1156" y="58" fill="#64748b" font-size="15" text-anchor="end">auto-updated daily · 2026-11-16</text>
 <g class="fade" style="animation-delay:0.1s">
   <rect x="44" y="96" width="184" height="104" rx="14" fill="#0f172a" stroke="#7dd3fc" stroke-opacity=".35"/>
-  <text class="sans" x="62" y="150" fill="#7dd3fc" font-size="36" font-weight="800">3,995</text>
+  <text class="sans" x="62" y="150" fill="#7dd3fc" font-size="36" font-weight="800">4,727</text>
   <text class="sans" x="62" y="180" fill="#94a3b8" font-size="15">Contributions · last year</text>
 </g>
 <g class="fade" style="animation-delay:0.22s">
   <rect x="244" y="96" width="184" height="104" rx="14" fill="#0f172a" stroke="#c4b5fd" stroke-opacity=".35"/>
-  <text class="sans" x="262" y="150" fill="#c4b5fd" font-size="36" font-weight="800">4,104</text>
+  <text class="sans" x="262" y="150" fill="#c4b5fd" font-size="36" font-weight="800">4,836</text>
   <text class="sans" x="262" y="180" fill="#94a3b8" font-size="15">All-time contributions</text>
 </g>
 <g class="fade" style="animation-delay:0.33999999999999997s">
   <rect x="444" y="96" width="184" height="104" rx="14" fill="#0f172a" stroke="#34d399" stroke-opacity=".35"/>
-  <text class="sans" x="462" y="150" fill="#34d399" font-size="36" font-weight="800">3,837</text>
+  <text class="sans" x="462" y="150" fill="#34d399" font-size="36" font-weight="800">4,563</text>
   <text class="sans" x="462" y="180" fill="#94a3b8" font-size="15">Commits</text>
 </g>
 <g class="fade" style="animation-delay:0.45999999999999996s">
   <rect x="44" y="214" width="184" height="104" rx="14" fill="#0f172a" stroke="#fbbf24" stroke-opacity=".35"/>
-  <text class="sans" x="62" y="268" fill="#fbbf24" font-size="36" font-weight="800">172</text>
+  <text class="sans" x="62" y="268" fill="#fbbf24" font-size="36" font-weight="800">176</text>
   <text class="sans" x="62" y="298" fill="#94a3b8" font-size="15">Pull requests</text>
 </g>
 <g class="fade" style="animation-delay:0.58s">
   <rect x="244" y="214" width="184" height="104" rx="14" fill="#0f172a" stroke="#f472b6" stroke-opacity=".35"/>
-  <text class="sans" x="262" y="268" fill="#f472b6" font-size="36" font-weight="800">12</text>
+  <text class="sans" x="262" y="268" fill="#f472b6" font-size="36" font-weight="800">13</text>
   <text class="sans" x="262" y="298" fill="#94a3b8" font-size="15">Repos contributed to</text>
 </g>
 <g class="fade" style="animation-delay:0.7s">
   <rect x="444" y="214" width="184" height="104" rx="14" fill="#0f172a" stroke="#94a3b8" stroke-opacity=".35"/>
-  <text class="sans" x="462" y="268" fill="#94a3b8" font-size="36" font-weight="800">26</text>
+  <text class="sans" x="462" y="268" fill="#94a3b8" font-size="36" font-weight="800">28</text>
   <text class="sans" x="462" y="298" fill="#94a3b8" font-size="15">Public repos</text>
 </g>
 <text class="mono" x="700" y="96" fill="#94a3b8" font-size="15" letter-spacing="2">LANGUAGES · OWN + CONTRIBUTED REPOS</text>
-<g clip-path="url(#bar)"><rect x="700" y="112" width="456" height="16" fill="#1e293b"/><rect x="700" y="112" width="245.9924235344683" height="16" fill="#3178c6"/><rect x="945.9924235344683" y="112" width="116.04225757692328" height="16" fill="#3572A5"/><rect x="1062.0346811113916" y="112" width="83.3616343665185" height="16" fill="#A97BFF"/><rect x="1145.39631547791" y="112" width="4.016678506202949" height="16" fill="#f1e05a"/><rect x="1149.412993984113" y="112" width="2.392683486096081" height="16" fill="#336790"/><rect x="1151.805677470209" y="112" width="2" height="16" fill="#844FBA"/></g>
+<g clip-path="url(#bar)"><rect x="700" y="112" width="456" height="16" fill="#1e293b"/><rect x="700" y="112" width="244.13827825179874" height="16" fill="#3178c6"/><rect x="944.1382782517987" y="112" width="125.34005673348912" height="16" fill="#3572A5"/><rect x="1069.4783349852878" y="112" width="74.73365368549831" height="16" fill="#A97BFF"/><rect x="1144.2119886707862" y="112" width="4.634889370820195" height="16" fill="#f1e05a"/><rect x="1148.8468780416065" y="112" width="2.0964865203364784" height="16" fill="#336790"/><rect x="1150.9433645619429" y="112" width="2" height="16" fill="#89e051"/></g>
 <circle cx="708" cy="166" r="7" fill="#3178c6"/>
 <text class="sans" x="724" y="172" fill="#e2e8f0" font-size="17" font-weight="600">TypeScript</text>
-<text class="mono" x="922" y="172" fill="#94a3b8" font-size="15" text-anchor="end">53.9%</text>
+<text class="mono" x="922" y="172" fill="#94a3b8" font-size="15" text-anchor="end">53.5%</text>
 <circle cx="940" cy="166" r="7" fill="#3572A5"/>
 <text class="sans" x="956" y="172" fill="#e2e8f0" font-size="17" font-weight="600">Python</text>
-<text class="mono" x="1154" y="172" fill="#94a3b8" font-size="15" text-anchor="end">25.4%</text>
+<text class="mono" x="1154" y="172" fill="#94a3b8" font-size="15" text-anchor="end">27.5%</text>
 <circle cx="708" cy="210" r="7" fill="#A97BFF"/>
 <text class="sans" x="724" y="216" fill="#e2e8f0" font-size="17" font-weight="600">Kotlin</text>
-<text class="mono" x="922" y="216" fill="#94a3b8" font-size="15" text-anchor="end">18.3%</text>
+<text class="mono" x="922" y="216" fill="#94a3b8" font-size="15" text-anchor="end">16.4%</text>
 <circle cx="940" cy="210" r="7" fill="#f1e05a"/>
 <text class="sans" x="956" y="216" fill="#e2e8f0" font-size="17" font-weight="600">JavaScript</text>
-<text class="mono" x="1154" y="216" fill="#94a3b8" font-size="15" text-anchor="end">0.9%</text>
+<text class="mono" x="1154" y="216" fill="#94a3b8" font-size="15" text-anchor="end">1.0%</text>
 <circle cx="708" cy="254" r="7" fill="#336790"/>
 <text class="sans" x="724" y="260" fill="#e2e8f0" font-size="17" font-weight="600">PLpgSQL</text>
 <text class="mono" x="922" y="260" fill="#94a3b8" font-size="15" text-anchor="end">0.5%</text>
-<circle cx="940" cy="254" r="7" fill="#844FBA"/>
-<text class="sans" x="956" y="260" fill="#e2e8f0" font-size="17" font-weight="600">HCL</text>
+<circle cx="940" cy="254" r="7" fill="#89e051"/>
+<text class="sans" x="956" y="260" fill="#e2e8f0" font-size="17" font-weight="600">Shell</text>
 <text class="mono" x="1154" y="260" fill="#94a3b8" font-size="15" text-anchor="end">0.3%</text>
 <rect x=".75" y=".75" width="1198.5" height="358.5" rx="19.5" fill="none" stroke="#7dd3fc" stroke-opacity=".15" stroke-width="1.5"/>
 </svg>
